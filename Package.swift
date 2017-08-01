@@ -27,7 +27,7 @@ let package = Package(
         .Package(url: "https://github.com/vapor/engine.git", majorVersion: 2),
 
         // Console protocol and implementation for powering command line interface.
-        .Package(url: "https://github.com/vapor/console.git", majorVersion: 2),
+        .Package(url: "https://github.com/bytethenoodle/console.git", majorVersion: 2),
 
         // JSON enum wrapper around Foundation JSON
         .Package(url: "https://github.com/vapor/json.git", majorVersion: 2),
