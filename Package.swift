@@ -36,7 +36,7 @@ let package = Package(
         .Package(url: "https://github.com/vapor/routing.git", majorVersion: 2),
 
         // Parses `Content-Type: multipart` as defined in RFC 2046.
-        .Package(url: "https://github.com/vapor/multipart.git", majorVersion: 2),
+        .Package(url: "https://github.com/bytethenoodle/multipart.git", majorVersion: 2),
 
         // Swift implementation of the BCrypt password hashing function
         .Package(url: "https://github.com/vapor/bcrypt.git", majorVersion: 1),
